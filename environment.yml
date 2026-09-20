@@ -1,4 +1,4 @@
-name: cnos2
+name: cnos
 channels:
   - xformers
   - pytorch
